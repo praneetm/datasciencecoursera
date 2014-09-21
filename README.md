@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repository made for the Coursera course of Data Science
+Repository made for the Coursera course on Data Science
